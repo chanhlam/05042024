@@ -104,7 +104,7 @@ Children:
       Type: BaseDataVariableType
       DataType: Color
       ModellingRule: Optional
-      Value: "#0fafff"
+      Value: "#f58025"
   - Name: Rectangle4
     Type: Rectangle
     Children:
